@@ -1,0 +1,15 @@
+{
+  "name": "padel-boom-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch db.json" 
+  },
+  "keywords": [
+  "json-server",
+  "padel boom",
+  "javascript"],
+  "author": "Victor Rodriguez",
+  "license": "ISC"
+}
